@@ -1,5 +1,10 @@
 # 516 Hackers (516 Ethical)
 
+[![Stars](https://img.shields.io/github/stars/516hackers/about?style=flat-square)](https://github.com/516hackers/about/stargazers)
+[![License](https://img.shields.io/github/license/516hackers/about?style=flat-square)](./LICENSE)
+[![Issues](https://img.shields.io/github/issues/516hackers/about?style=flat-square)](https://github.com/516hackers/about/issues)
+[![Last Commit](https://img.shields.io/github/last-commit/516hackers/about?style=flat-square)](https://github.com/516hackers/about/commits/main)
+
 > Cybersecurity Collective | Ethical Hacking | Scam Busters
 
 **516 Hackers (also known as 516 Ethical)** is a Pakistan-based volunteer collective founded in 2020.  
