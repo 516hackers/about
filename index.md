@@ -1,33 +1,39 @@
-# 516 Hackers – Ethical Cybersecurity Group
+---
+layout: default
+title: "Welcome"
+---
 
-Welcome to the official website of **516 Hackers**  
-We are a Pakistan-based ethical hacking collective dedicated to:
+<img src="https://avatars.githubusercontent.com/u/125684516?v=4" alt="516 Hackers Logo" width="120" style="border-radius:50%; margin-bottom:20px;" />
 
-- 🛡️ Cyber Investigation  
-- 🔐 Scam Busting & Payment Recovery  
-- 📱 Account Recovery  
-- 📚 Free Knowledge & Open-Source Tools  
+# 👋 Welcome to **516 Hackers**
+A global community of **ethical hackers & cybersecurity learners**.  
+We research, collaborate, and build projects to make the digital world safer.  
 
 ---
 
-## 🌍 About Us
-Founded in **2020** by **Muhammad Muzamil**, 516 Hackers provides **free and legal cybersecurity help** to victims of scams and blackmail.  
-We operate under the motto: **"No Charges – Just Help."**
+## 🚀 What We Do
+- 🔒 **Cybersecurity Research** – write-ups, labs, and exploit analysis  
+- 🛠 **Open-source Projects** – tools, scripts, and security automation  
+- 📚 **Knowledge Sharing** – tutorials, blogs, and GitHub discussions  
+- 🌍 **Community Support** – collaborate on solving security challenges  
 
 ---
 
-## 📌 Sections
-- [Mission & Values](https://github.com/516hackers/about/wiki/Mission-&-Values)  
-- [History & Founding](https://github.com/516hackers/about/wiki/History-&-Founding)  
-- [Projects & Tools](https://github.com/516hackers/about/wiki/Projects-&-Tools)  
-- [FAQ](https://github.com/516hackers/about/wiki/FAQ)  
+## 📌 Quick Links
+- [👉 Our Mission](/mission)  
+- [📖 History of 516 Hackers](/history)  
+- [💻 Projects & Tools](/projects)  
+- [🙋 FAQ](/faq)  
+- [🤝 Join Community](/community)  
+- [📬 Contact Us](/contact)  
 
 ---
 
-## 🔗 Connect With Us
-- [Instagram](https://www.instagram.com/516_hackers/)  
-- [GitHub](https://github.com/516hackers)  
+## 🔗 Stay Connected
+- 🐙 [GitHub](https://github.com/516hackers)  
+- 📸 [Instagram](https://www.instagram.com/516_hackers/)  
+- 💬 [Discussions](https://github.com/516hackers/about/discussions)  
 
 ---
 
-© 2025 516 Hackers. Powered by GitHub Pages.
+⭐ *This site is proudly built by the community. Contribute on [GitHub](https://github.com/516hackers/about)!*
