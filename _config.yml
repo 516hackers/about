@@ -1,23 +1,19 @@
 title: "516 Hackers"
-description: "Official site of 516 Hackers – ethical hacking, open-source projects, and community support."
+description: "Official site of 516 Hackers – A legal cybersecurity and recovery foundation helping people protect accounts, recover scammed funds, and fight blackmail."
 logo: "https://avatars.githubusercontent.com/u/125684516?v=4"
-favicon: "https://avatars.githubusercontent.com/u/125684516?v=4"
+theme: jekyll-theme-slate
 
-# Theme
-theme: jekyll-theme-minimal
+# GitHub Pages settings
+show_downloads: false
 
-# Author
-author:
-  name: "516 Hackers Foundation"
-  url: "https://github.com/516hackers"
+# Social / Quick Links
+social_links:
+  github: https://github.com/516hackers
+  instagram: https://instagram.com/516_hackers
+  discussions: https://github.com/516hackers/about/discussions
+  wiki: https://github.com/516hackers/about/wiki
 
-# Social links
-social:
-  github: "https://github.com/516hackers"
-  instagram: "https://www.instagram.com/516_hackers/"
-  discussions: "https://github.com/516hackers/about/discussions"
-
-# Navigation (appears in navbar / sidebar depending on theme)
+# Navigation (top navbar)
 nav:
   - name: "Home"
     link: /
@@ -31,9 +27,8 @@ nav:
     link: /faq
   - name: "Community"
     link: /community
-  - name: "Contact"
-    link: /contact
 
-# Footer
-footer: >
-  © 2025 516 Hackers Foundation · Built with ❤️ on [GitHub Pages](https://pages.github.com/).
+# Footer content
+footer:
+  copyright: "© 2025 516 Hackers – All Rights Reserved"
+  note: "We provide legal cybersecurity help. We never charge money for recovery or support."
