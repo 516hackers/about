@@ -3,12 +3,16 @@
 # ===============================
 
 title: "516 Hackers"
-description: "Official About site for 516 Hackers – Ethical Cybersecurity Collective"
+description: "Ethical Cybersecurity Collective | Mission, Projects & Community"
 url: "https://516hackers.github.io"
 baseurl: "/about"
 
-# Theme (you can change to: jekyll-theme-cayman, jekyll-theme-slate, etc.)
-theme: jekyll-theme-minimal
+# Theme
+theme: jekyll-theme-cayman   # modern, colorful theme
+
+# Logo & Branding
+logo: "https://avatars.githubusercontent.com/u/125684516?v=4"
+favicon: "https://avatars.githubusercontent.com/u/125684516?v=4"
 
 # Social Links
 social_links:
@@ -16,10 +20,7 @@ social_links:
   instagram: https://www.instagram.com/516_hackers/
   discussions: https://github.com/516hackers/about/discussions
 
-# Logo (direct GitHub avatar URL)
-logo: "https://avatars.githubusercontent.com/u/125684516?v=4"
-
-# Navigation (appears on top if theme supports it)
+# Navigation
 nav:
   - title: "Home"
     url: /
@@ -33,6 +34,13 @@ nav:
     url: /faq
   - title: "Community"
     url: /community
+  - title: "Contact"
+    url: /contact
+
+# SEO / Metadata
+author: "516 Hackers Team"
+keywords: "cybersecurity, hacking, ethical hackers, open-source, 516 hackers"
+lang: en
 
 # Footer
 footer: >
