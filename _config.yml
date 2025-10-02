@@ -1,0 +1,40 @@
+# ===============================
+#  516 Hackers - GitHub Pages Config
+# ===============================
+
+title: "516 Hackers"
+description: "Official About site for 516 Hackers – Ethical Cybersecurity Collective"
+url: "https://516hackers.github.io"
+baseurl: "/about"
+
+# Theme (you can change to: jekyll-theme-cayman, jekyll-theme-slate, etc.)
+theme: jekyll-theme-minimal
+
+# Social Links
+social_links:
+  github: https://github.com/516hackers
+  instagram: https://www.instagram.com/516_hackers/
+  discussions: https://github.com/516hackers/about/discussions
+
+# Logo (optional – add logo.png to repo root or /assets folder)
+logo: /assets/logo.png
+
+# Navigation (appears on top if theme supports it)
+nav:
+  - title: "Home"
+    url: /
+  - title: "Mission"
+    url: /mission
+  - title: "History"
+    url: /history
+  - title: "Projects"
+    url: /projects
+  - title: "FAQ"
+    url: /faq
+  - title: "Community"
+    url: /community
+
+# Footer
+footer: >
+  © 2025 516 Hackers – Ethical Cybersecurity Collective.  
+  Built with ❤ on [GitHub Pages](https://pages.github.com).
