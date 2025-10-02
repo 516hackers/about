@@ -1,34 +1,42 @@
 title: "516 Hackers"
-description: "Official site of 516 Hackers – A legal cybersecurity and recovery foundation helping people protect accounts, recover scammed funds, and fight blackmail."
+description: "Official site of 516 Hackers – Ethical Cybersecurity Group helping victims of scams, hacked accounts, and blackmail. Always free of charge."
 logo: "https://avatars.githubusercontent.com/u/125684516?v=4"
-theme: jekyll-theme-slate
-
-# GitHub Pages settings
 show_downloads: false
 
-# Social / Quick Links
-social_links:
-  github: https://github.com/516hackers
-  instagram: https://instagram.com/516_hackers
-  discussions: https://github.com/516hackers/about/discussions
-  wiki: https://github.com/516hackers/about/wiki
+# Theme
+theme: jekyll-theme-cayman
 
-# Navigation (top navbar)
+# Navbar quick links
 nav:
-  - name: "Home"
-    link: /
-  - name: "Mission"
-    link: /mission
-  - name: "History"
-    link: /history
-  - name: "Projects"
-    link: /projects
-  - name: "FAQ"
-    link: /faq
-  - name: "Community"
-    link: /community
+  - title: "Home"
+    url: /
+  - title: "Mission"
+    url: /mission
+  - title: "History"
+    url: /history
+  - title: "Projects"
+    url: /projects
+  - title: "Community"
+    url: /community
+  - title: "FAQ"
+    url: /faq
+  - title: "Wiki"
+    url: https://github.com/516hackers/about/wiki
+  - title: "Discussions"
+    url: https://github.com/516hackers/about/discussions
 
-# Footer content
+# Footer settings
 footer:
-  copyright: "© 2025 516 Hackers – All Rights Reserved"
-  note: "We provide legal cybersecurity help. We never charge money for recovery or support."
+  links:
+    - title: "GitHub"
+      url: https://github.com/516hackers
+    - title: "Instagram"
+      url: https://instagram.com/516_hackers
+    - title: "Wiki"
+      url: https://github.com/516hackers/about/wiki
+
+# Plugins for extra features
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
