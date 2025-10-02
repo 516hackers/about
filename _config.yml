@@ -16,8 +16,8 @@ social_links:
   instagram: https://www.instagram.com/516_hackers/
   discussions: https://github.com/516hackers/about/discussions
 
-# Logo (optional – add logo.png to repo root or /assets folder)
-logo: /assets/logo.png
+# Logo (direct GitHub avatar URL)
+logo: "https://avatars.githubusercontent.com/u/125684516?v=4"
 
 # Navigation (appears on top if theme supports it)
 nav:
