@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 💬 Community Support
+    url: https://github.com/516hackers/about/discussions
+    about: Please ask questions and start discussions here instead of opening issues.
+  - name: 🔒 Security Reports
+    url: https://github.com/516hackers/about/security/policy
+    about: Please report security vulnerabilities privately via our SECURITY.md process.
