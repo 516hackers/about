@@ -1,39 +1,42 @@
 title: "516 Hackers"
-description: "Official site of 516 Hackers – ethical hacking, open-source projects, and community support."
+description: "Official site of 516 Hackers – Ethical Cybersecurity Group helping victims of scams, hacked accounts, and blackmail. Always free of charge."
 logo: "https://avatars.githubusercontent.com/u/125684516?v=4"
-favicon: "https://avatars.githubusercontent.com/u/125684516?v=4"
+show_downloads: false
 
 # Theme
-theme: jekyll-theme-minimal
+theme: jekyll-theme-cayman
 
-# Author
-author:
-  name: "516 Hackers Foundation"
-  url: "https://github.com/516hackers"
-
-# Social links
-social:
-  github: "https://github.com/516hackers"
-  instagram: "https://www.instagram.com/516_hackers/"
-  discussions: "https://github.com/516hackers/about/discussions"
-
-# Navigation (appears in navbar / sidebar depending on theme)
+# Navbar quick links
 nav:
-  - name: "Home"
-    link: /
-  - name: "Mission"
-    link: /mission
-  - name: "History"
-    link: /history
-  - name: "Projects"
-    link: /projects
-  - name: "FAQ"
-    link: /faq
-  - name: "Community"
-    link: /community
-  - name: "Contact"
-    link: /contact
+  - title: "Home"
+    url: /
+  - title: "Mission"
+    url: /mission
+  - title: "History"
+    url: /history
+  - title: "Projects"
+    url: /projects
+  - title: "Community"
+    url: /community
+  - title: "FAQ"
+    url: /faq
+  - title: "Wiki"
+    url: https://github.com/516hackers/about/wiki
+  - title: "Discussions"
+    url: https://github.com/516hackers/about/discussions
 
-# Footer
-footer: >
-  © 2025 516 Hackers Foundation · Built with ❤️ on [GitHub Pages](https://pages.github.com/).
+# Footer settings
+footer:
+  links:
+    - title: "GitHub"
+      url: https://github.com/516hackers
+    - title: "Instagram"
+      url: https://instagram.com/516_hackers
+    - title: "Wiki"
+      url: https://github.com/516hackers/about/wiki
+
+# Plugins for extra features
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
