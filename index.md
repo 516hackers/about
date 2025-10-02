@@ -1,52 +1,47 @@
-![Logo](https://avatars.githubusercontent.com/u/125684516?v=4)
+---
+layout: default
+title: "Welcome"
+---
 
-# Welcome to 516 Hackers
-
-**516 Hackers (also called 516 Ethical)** is a Pakistan-based cybersecurity collective dedicated to **legal & ethical hacking**.  
-We help individuals recover hacked accounts, trace scams, fight online blackmail, and raise awareness about cyber safety.  
-👉 Always **free of charge** — we stand for community service, not profit.
+<div align="center">
+  <img src="https://avatars.githubusercontent.com/u/125684516?v=4" alt="516 Hackers Logo" width="120" style="border-radius:50%;" />
+  
+  # 👋 Welcome to **516 Hackers**
+  A global community of **ethical hackers & cybersecurity learners**.  
+  Together, we build projects, share knowledge, and protect the digital world.  
+</div>
 
 ---
 
-## 🔹 Mission
-- Protect people from online scams & blackmail  
-- Help recover hacked social media, email, and payment accounts  
-- Spread awareness about ethical cybersecurity in Pakistan  
-- Build open-source tools for investigation & learning  
+## 🚀 Our Focus
+- 🔒 **Cybersecurity Research** – write-ups, labs, and exploit analysis  
+- 🛠 **Open-source Projects** – tools, scripts, and security automation  
+- 📚 **Knowledge Sharing** – tutorials, blogs, and GitHub discussions  
+- 🌍 **Community Support** – collaborate on security challenges  
 
 ---
 
-## 🔹 Quick Links
-- 🛠 [GitHub Repositories](https://github.com/516hackers)  
-- 📸 [Instagram Community](https://instagram.com/516_hackers)  
-- 📖 [Wiki Knowledge Base](https://github.com/516hackers/about/wiki)  
-- 💬 [Join Discussions](https://github.com/516hackers/about/discussions)  
-- ❓ [FAQ](faq.md)  
+## 📌 Quick Links
+
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap: 15px; text-align:center;">
+  <a href="/mission" style="border:1px solid #ddd; padding:15px; border-radius:8px; text-decoration:none;">👉 Our Mission</a>
+  <a href="/history" style="border:1px solid #ddd; padding:15px; border-radius:8px; text-decoration:none;">📖 History</a>
+  <a href="/projects" style="border:1px solid #ddd; padding:15px; border-radius:8px; text-decoration:none;">💻 Projects</a>
+  <a href="/faq" style="border:1px solid #ddd; padding:15px; border-radius:8px; text-decoration:none;">🙋 FAQ</a>
+  <a href="/community" style="border:1px solid #ddd; padding:15px; border-radius:8px; text-decoration:none;">🤝 Community</a>
+  <a href="/contact" style="border:1px solid #ddd; padding:15px; border-radius:8px; text-decoration:none;">📬 Contact</a>
+</div>
 
 ---
 
-## 🔹 Our Work
-✔ Scam investigation & recovery  
-✔ Account restoration support  
-✔ Network security research  
-✔ Open-source cybersecurity tools  
+## 🔗 Connect With Us
+- 🐙 [GitHub](https://github.com/516hackers)  
+- 📸 [Instagram](https://www.instagram.com/516_hackers/)  
+- 💬 [Discussions](https://github.com/516hackers/about/discussions)  
 
 ---
 
-## 🔹 Legal & Free
-✅ We only practice **legal ethical hacking**  
-✅ We **do not charge money** for recovery help  
-✅ We aim to create a **safe digital space** in Pakistan  
-
----
-
-## 📬 Contact Us
-- Instagram: [@516_hackers](https://instagram.com/516_hackers)  
-- GitHub: [516hackers](https://github.com/516hackers)  
-
----
-
-<footer align="center">
-  <p>© 2025 516 Hackers – All Rights Reserved</p>
-  <p><em>Cybersecurity for the People • Legal • Ethical • Free</em></p>
-</footer>
+<div align="center" style="margin-top:30px; font-size:14px; color:gray;">
+  ⭐ This site is community-driven. Contribute on  
+  [GitHub](https://github.com/516hackers/about).
+</div>
