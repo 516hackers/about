@@ -1,48 +1,39 @@
-# ===============================
-#  516 Hackers - GitHub Pages Config
-# ===============================
-
 title: "516 Hackers"
-description: "Ethical Cybersecurity Collective | Mission, Projects & Community"
-url: "https://516hackers.github.io"
-baseurl: "/about"
-
-# Theme
-theme: jekyll-theme-cayman   # modern, colorful theme
-
-# Logo & Branding
+description: "Official site of 516 Hackers – ethical hacking, open-source projects, and community support."
 logo: "https://avatars.githubusercontent.com/u/125684516?v=4"
 favicon: "https://avatars.githubusercontent.com/u/125684516?v=4"
 
-# Social Links
-social_links:
-  github: https://github.com/516hackers
-  instagram: https://www.instagram.com/516_hackers/
-  discussions: https://github.com/516hackers/about/discussions
+# Theme
+theme: jekyll-theme-minimal
 
-# Navigation
+# Author
+author:
+  name: "516 Hackers Foundation"
+  url: "https://github.com/516hackers"
+
+# Social links
+social:
+  github: "https://github.com/516hackers"
+  instagram: "https://www.instagram.com/516_hackers/"
+  discussions: "https://github.com/516hackers/about/discussions"
+
+# Navigation (appears in navbar / sidebar depending on theme)
 nav:
-  - title: "Home"
-    url: /
-  - title: "Mission"
-    url: /mission
-  - title: "History"
-    url: /history
-  - title: "Projects"
-    url: /projects
-  - title: "FAQ"
-    url: /faq
-  - title: "Community"
-    url: /community
-  - title: "Contact"
-    url: /contact
-
-# SEO / Metadata
-author: "516 Hackers Team"
-keywords: "cybersecurity, hacking, ethical hackers, open-source, 516 hackers"
-lang: en
+  - name: "Home"
+    link: /
+  - name: "Mission"
+    link: /mission
+  - name: "History"
+    link: /history
+  - name: "Projects"
+    link: /projects
+  - name: "FAQ"
+    link: /faq
+  - name: "Community"
+    link: /community
+  - name: "Contact"
+    link: /contact
 
 # Footer
 footer: >
-  © 2025 516 Hackers – Ethical Cybersecurity Collective.  
-  Built with ❤ on [GitHub Pages](https://pages.github.com).
+  © 2025 516 Hackers Foundation · Built with ❤️ on [GitHub Pages](https://pages.github.com/).
